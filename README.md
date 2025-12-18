@@ -96,5 +96,4 @@ To move from retrospective reporting to proactive prevention, the solution utili
 * **Visualization:** Power BI with five targeted dashboard pages (University Overview, Course Performance, Unit Performance, What-If Scenarios).
 
 
-* 
-**Design System:** Built using official institutional branding and accessible colour palettes for consistency.
+* **Design System:** Built using official institutional branding and accessible colour palettes for consistency.
