@@ -11,8 +11,8 @@ This project delivers a comprehensive, stakeholder-centric Power BI and Machine 
 ---
 
 ## 1. Executive Summary: The "Retain & Rebalance" Strategy
-**Data Scope:** 52,000+ course enrolments and ~22,000 students analysed over a 5-year period.
-**Key Recovery Metric:** Institutional retention recovered to **90% in 2024**, effectively rebounding from a low point in 2022.
+**Data Scope:** 52,000+ course enrolments and ~22,000 students analysed over a 5-year period.<br>
+**Key Recovery Metric:** Institutional retention recovered to **90% in 2024**, effectively rebounding from a low point in 2022.<br>
 **Strategic Pivot:** The analysis supports a shift from broad-spectrum support to targeted interventions for specific "at-risk" segments, optimizing the allocation of teaching resources.
 
 
