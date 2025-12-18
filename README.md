@@ -63,9 +63,9 @@ To move from retrospective reporting to proactive prevention, the solution utili
 
 
 * **Behavior Over Demographics:** The model confirms that risk is driven by *behavioral signals*, not demographics.
-**Top Predictors:** Progression momentum (Level 300 unit completion), Success Rate per EFTSL, and WAM.
-**Low Predictors:** Age, Gender, and Equity status.
-**Risk Segmentation:** The 2025 cohort is segmented into Low (52.5%), Medium (7.8%), and High Risk (39.7%) groups to facilitate automated alerts.
+* **Top Predictors:** Progression momentum (Level 300 unit completion), Success Rate per EFTSL, and WAM.
+* **Low Predictors:** Age, Gender, and Equity status.
+* **Risk Segmentation:** The 2025 cohort is segmented into Low (52.5%), Medium (7.8%), and High Risk (39.7%) groups to facilitate automated alerts.
 
 
 
