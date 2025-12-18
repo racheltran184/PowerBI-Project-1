@@ -89,12 +89,15 @@ To move from retrospective reporting to proactive prevention, the solution utili
 
 ---
 
-## 5. Technical Architecture
+## 🛠️ Tech Stack
 
-* **Data Warehouse:** Snowflake Schema (Star Schema) connecting Fact tables (Enrolment, Retention) with Dimension tables (Student, Course, Unit, WAM).
-
-
-* **Visualization:** Power BI with five targeted dashboard pages (University Overview, Course Performance, Unit Performance, What-If Scenarios).
+* **Snowflake Data Warehouse:** Implemented a Star Schema architecture connecting enrolment and retention facts with student, course, and unit dimensions.
 
 
-* **Design System:** Built using official institutional branding and accessible colour palettes for consistency.
+* **Power BI:** A 5-page interactive dashboard system featuring drill-through capabilities and stakeholder-specific navigation.
+
+
+* **Machine Learning:** Supervised **XGBoost classifier** (93.4% accuracy) for withdrawal risk prediction, utilizing **SHAP** analysis to identify behavioral drivers.
+
+
+* **Design & Governance:** User-centric design using official institutional branding and strict de-identification protocols for data privacy.
