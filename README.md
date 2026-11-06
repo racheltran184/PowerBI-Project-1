@@ -1,6 +1,7 @@
 # Business School Retention Analytics
 
 [![Power BI Dashboard](https://img.shields.io/badge/Power%20BI-View_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.powerbi.com/view?r=eyJrIjoiNmQ4MzMzYzQtYWUyYi00ZTcyLTg4MDEtZThlNDE2N2YzNjBkIiwidCI6IjgyYzUxNGMxLWE3MTctNDA4Ny1iZTA2LWQ0MGQyMDcwYWQ1MiJ9&pageName=8d3b53fb6270bcb04f5e)
+
 [![Case Study](https://img.shields.io/badge/Case_Study-Read_the_page-111111?style=for-the-badge)](https://racheltran184.github.io/PowerBI-Project-1/)
 
 **Two in three leavers are visible by mid-year.** Five years of a university business school's data (284,818 unit enrolments for 21,824 bachelor students) built into a Power BI dashboard, then re-analysed to find who leaves, when it shows, and which action would keep them.
